@@ -1,6 +1,6 @@
 # course-card
 bulma, javascript(canvas)
 
-Start project:
+command to start project:
 
 npm start
